@@ -1,2 +1,2 @@
 ## Apercu du Dashboard
-![Dashboard] (SuiviVente_Dashboard.png)
+![Dashboard](SuiviVente_Dashboard.png)
